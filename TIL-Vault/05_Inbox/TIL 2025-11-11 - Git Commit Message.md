@@ -25,16 +25,14 @@ refactor: Simplify algorithm example in TIL
 
 ## 📚 상세 내용 (Deep Dive)
 
-### 🔤 가장 자주 쓰이는 코드 블록 언어 예시
+## 🏷️ 주요 `type` 정리 (실무 기준)
 
-| **언어**         | **코드 블록 태그**                 | **비고**           |
-| -------------- | ---------------------------- | ---------------- |
-| JavaScript     | `js`, `javascript`           | 자바스크립트 코드        |
-| Java           | `java`                       | 알고리즘 풀이 시 유용     |
-| Python         | `python`                     | 파이썬 코드           |
-| Shell / 터미널    | `bash`, `shell`, `sh`, `zsh` | Git 명령어나 CLI 예제용 |
-| JSON           | `json`                       | 설정 파일 표현         |
-| Markdown       | `markdown`, `md`             | 문서 형식 설명         |
-| YAML           | `yaml`, `yml`                | 설정 예시            |
-| Text (일반 텍스트)  | `text`, `plaintext`          | 포맷 없이 깔끔히        |
-| None (하이라이팅 끔) | `(비워두기)`                     | 단순 텍스트로 보여줌      |
+|type|의미|TIL 예시|
+|---|---|---|
+|**feat**|새 내용 추가 (학습 주제, 기능 등)|`feat: Add TIL on Java lambda expressions`|
+|**fix**|오류 수정, 잘못된 내용 보정|`fix: Correct explanation of map vs flatMap`|
+|**docs**|문서 내용 수정 (TIL 내용 포함)|`docs: Update Markdown for readability`|
+|**refactor**|구조 변경 (코드/노트 구조 개선)|`refactor: Reorganize TIL folder structure`|
+|**chore**|단순 관리 작업 (정리, 파일 이동 등)|`chore: Rename TIL filenames for consistency`|
+|**style**|서식, 들여쓰기, 맞춤법 등|`style: Fix Markdown list formatting`|
+
