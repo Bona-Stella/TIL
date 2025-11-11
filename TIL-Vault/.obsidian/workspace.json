@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Database View"
             }
+          },
+          {
+            "id": "ba1448c09d3b4113",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Java/Algorithm/Database View.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Database View 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -113,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Java/Algorithm/Database View.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Database View 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -144,13 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Java/Algorithm/Database View.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Database View 의 개요"
+              "title": "개요"
             }
           }
         ]
@@ -213,8 +221,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e0292f9c00d91074",
+  "active": "ba1448c09d3b4113",
   "lastOpenFiles": [
+    "MOCs/Inbox Dashboard.md",
+    "MOCs/Database.md",
     "05_Inbox/TIL 2025-11-11 - 최댓값과 최솟값.md",
     "01_Java/Algorithm/Database View.md",
     "01_Java/Core/Database View.md",
@@ -227,11 +237,9 @@
     "00_Templates/Simple_TIL.md",
     "MOCs/MOC_TBD.md",
     "MOCs/Java.md",
-    "MOCs/Inbox Dashboard.md",
     "05_Inbox/TIL 2025-11-11 - TEST.md",
     "05_Inbox/TIL 2025-11-11 - TEST3.md",
     "05_Inbox/TIL 2025-11-11 - TEST2.md",
-    "MOCs/Database.md",
     "01_Java/Core/TIL 2025-11-11 - TEST.md",
     "01_Java/Core/TIL 2025-11-11 - TEST 1 1 1.md",
     "01_Java/Core/TIL 2025-11-11 - TEST 1 1.md",
