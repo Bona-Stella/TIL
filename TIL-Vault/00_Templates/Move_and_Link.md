@@ -6,6 +6,7 @@ const TARGETS = [
   "01_Java/Core",
   "01_Java/Algorithm",
   "01_Java/Spring",
+  "02_Database/ElasticSearch",
   "02_Database/PostgreSQL",
   "02_Database/Redis",
   "02_Database/Core",

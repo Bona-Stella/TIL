@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0741c46365767f0f",
+        "id": "5a273ad94b4bebac",
         "type": "tabs",
         "children": [
           {
-            "id": "e0292f9c00d91074",
+            "id": "e2f209ea9d88763e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Java/Algorithm/Database View.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Database View"
-            }
-          },
-          {
-            "id": "ba1448c09d3b4113",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-11 - Git Commit Message.md",
+                "file": "05_Inbox/TIL 2025-11-12 - 트랜잭션 격리 수준.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL 2025-11-11 - Git Commit Message"
-            }
-          },
-          {
-            "id": "0b25b21ce8be67b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-12 - 최솟값 만들기.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-12 - 최솟값 만들기"
-            }
-          },
-          {
-            "id": "61335008605780b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-12 - 교착 상태.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-12 - 교착 상태"
-            }
-          },
-          {
-            "id": "c27ed38533410632",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-12 - 기아 상태.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-12 - 기아 상태"
+              "title": "TIL 2025-11-12 - 트랜잭션 격리 수준"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05_Inbox/TIL 2025-11-12 - 기아 상태.md",
+                "file": "05_Inbox/TIL 2025-11-12 - 트랜잭션 격리 수준.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "TIL 2025-11-12 - 기아 상태 의 백링크"
+              "title": "TIL 2025-11-12 - 트랜잭션 격리 수준 의 백링크"
             }
           },
           {
@@ -170,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05_Inbox/TIL 2025-11-12 - 기아 상태.md",
+                "file": "05_Inbox/TIL 2025-11-12 - 트랜잭션 격리 수준.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "TIL 2025-11-12 - 기아 상태 의 나가는 링크"
+              "title": "TIL 2025-11-12 - 트랜잭션 격리 수준 의 나가는 링크"
             }
           },
           {
@@ -201,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Inbox/TIL 2025-11-12 - 기아 상태.md",
+                "file": "05_Inbox/TIL 2025-11-12 - 트랜잭션 격리 수준.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TIL 2025-11-12 - 기아 상태 의 개요"
+              "title": "TIL 2025-11-12 - 트랜잭션 격리 수준 의 개요"
             }
           }
         ]
@@ -270,24 +213,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c27ed38533410632",
+  "active": "e2f209ea9d88763e",
   "lastOpenFiles": [
-    "05_Inbox/TIL 2025-11-12 - 교착 상태.md",
+    "MOCs/Inbox Dashboard.md",
+    "00_Templates/Move_and_Link.md",
+    "02_Database/Core/Database View.md",
+    "02_Database/ElasticSearch/Database View.md",
+    "05_Inbox/TIL 2025-11-12 - 트랜잭션 격리 수준.md",
+    "02_Database/ElasticSearch",
     "05_Inbox/TIL 2025-11-12 - 기아 상태.md",
+    "05_Inbox/TIL 2025-11-12 - 교착 상태.md",
     "05_Inbox/TIL 2025-11-11 - 최댓값과 최솟값.md",
     "05_Inbox/TIL 2025-11-11 - Git Commit Message.md",
     "05_Inbox/TIL 2025-11-12 - 최솟값 만들기.md",
     "05_Inbox/TIL 2025-11-11 - 올바른 괄호.md",
     "04_DevOps/Git",
-    "MOCs/Inbox Dashboard.md",
     "MOCs/Database.md",
     "01_Java/Algorithm/Database View.md",
     "01_Java/Core/Database View.md",
     "01_Java/Spring/Database View.md",
     "02_Database/Redis/Database View.md",
     "02_Database/PostgreSQL/Database View.md",
-    "02_Database/Core/Database View.md",
-    "00_Templates/Move_and_Link.md",
     "02_Database/Core",
     "00_Templates/Simple_TIL.md",
     "MOCs/MOC_TBD.md",
@@ -298,8 +244,6 @@
     "01_Java/Core/TIL 2025-11-11 - TEST.md",
     "01_Java/Core/TIL 2025-11-11 - TEST 1 1 1.md",
     "01_Java/Core/TIL 2025-11-11 - TEST 1 1.md",
-    "01_Java/Core/TIL 2025-11-11 - TEST 1.md",
-    "MOCs/Java/Algorithm.md",
     "MOCs/Database",
     "무제.canvas",
     "무제 1.canvas",
@@ -308,7 +252,6 @@
     "00_Templates/Commands",
     "MOCs",
     "00_Templates",
-    "05_Inbox",
-    "04_DevOps/Docker"
+    "05_Inbox"
   ]
 }
