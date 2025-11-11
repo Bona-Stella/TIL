@@ -22,3 +22,18 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# Obsidian 관련 설정 파일 제외
+.obsidian/workspace
+.obsidian/backups/
+.obsidian/cache
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/manifest.json
+
+# 시스템 관련 파일 제외
+.DS_Store
+Thumbs.db
+
+# 첨부 파일 중 대용량 미디어 파일 제외 (선택 사항)
+# *.mp4
+# *.mov
