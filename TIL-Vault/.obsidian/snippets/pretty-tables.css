@@ -1,0 +1,40 @@
+/* ============== Notion-ish Dataview Table ============== */
+.dataview.table-view-table {
+  border-collapse: collapse;
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  background: var(--background-secondary) !important;  /* 본문 더 어둡게 */
+}
+
+/* 헤더: 더 밝게 (Minimal 기본보다 높은 특이성 + !important) */
+.dataview.table-view-table thead tr th {
+  background: var(--background-primary) !important;
+  color: var(--text-normal) !important;
+  font-weight: 600;
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+/* 본문 셀 */
+.dataview.table-view-table tbody tr td {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+/* 행 hover */
+.dataview.table-view-table tbody tr:hover {
+  background: var(--background-secondary-alt) !important;
+  transition: 0.2s ease;
+}
+
+/* 첫 번째 컬럼(파일 링크) 스타일 */
+.dataview.table-view-table tbody td:first-child a {
+  color: var(--text-accent);
+  text-decoration: none;
+  font-weight: 500;
+}
+.dataview.table-view-table tbody td:first-child a:hover {
+  text-decoration: underline;
+}

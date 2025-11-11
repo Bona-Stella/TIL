@@ -1,0 +1,29 @@
+{
+  "quickadd:choice:9a63d7b6-052a-400d-9636-8d68fb597b11": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "templater-obsidian:create-00_Templates/Actions/Move_and_Link.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:00_Templates/Move_and_Link.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
+}
