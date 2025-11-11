@@ -4,7 +4,9 @@ updated: 2025-11-11 22:34
 status:
   - draft
 tags:
-source:
+  - Message
+  - Role
+source: "-"
 ---
 # 📝 TIL 2025-11-11 - Git Commit Message
 
