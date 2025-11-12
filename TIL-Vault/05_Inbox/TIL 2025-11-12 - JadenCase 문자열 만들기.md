@@ -4,7 +4,8 @@ updated: 2025-11-12 13:22
 status:
   - draft
 tags:
-source:
+  - Array
+source: Programmers
 ---
 # 📝 TIL 2025-11-12 - JadenCase 문자열 만들기
 
