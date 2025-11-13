@@ -1,0 +1,18 @@
+/* Fix Highlightr colors being overridden by Minimal theme */
+
+/* Reading View */
+.markdown-preview-view mark[class*="hltr-"],
+.markdown-preview-view span[class*="hltr-"] {
+    background-color: var(--hln-color) !important;
+    color: var(--hln-text-color) !important;
+}
+
+/* Live Preview */
+.cm-s-obsidian span[class*="hltr-"] {
+    background-color: var(--hln-color) !important;
+    color: var(--hln-text-color) !important;
+}
+
+.markdown-preview-view mark {
+    background-color: unset !important;
+}
