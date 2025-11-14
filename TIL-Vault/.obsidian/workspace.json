@@ -41,16 +41,198 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Inbox/TIL 2025-11-14 - 구명보트.md",
+                "file": "05_Inbox/TIL 2025-11-11 - Git Commit Message.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL 2025-11-14 - 구명보트"
+              "title": "TIL 2025-11-11 - Git Commit Message"
+            }
+          },
+          {
+            "id": "1bd0668535f6c526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Inbox/TIL 2025-11-14 - Annotation - Configuration.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIL 2025-11-14 - Annotation - Configuration"
+            }
+          },
+          {
+            "id": "884417c7e2f4b547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Inbox/TIL 2025-11-14 - Bean Scope.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIL 2025-11-14 - Bean Scope"
+            }
+          },
+          {
+            "id": "0fd430962a27bf84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Inbox/TIL 2025-11-14 - ProxyMode.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIL 2025-11-14 - ProxyMode"
+            }
+          },
+          {
+            "id": "350c84471665db3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Inbox/TIL 2025-11-14 - Request Scope.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIL 2025-11-14 - Request Scope"
+            }
+          },
+          {
+            "id": "0847db36753856f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Inbox/TIL 2025-11-14 - Request Scope.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIL 2025-11-14 - Request Scope"
+            }
+          },
+          {
+            "id": "43607e81f04bcdb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Inbox/TIL 2025-11-14 - Dependency Injection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIL 2025-11-14 - Dependency Injection"
+            }
+          },
+          {
+            "id": "a6d459e69a85ae48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Inbox/TIL 2025-11-14 - DispatcherServlet.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIL 2025-11-14 - DispatcherServlet"
+            }
+          },
+          {
+            "id": "1778558779308204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Inbox/TIL 2025-11-14 - Filter와 Interceptor의 예외 처리.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIL 2025-11-14 - Filter와 Interceptor의 예외 처리"
+            }
+          },
+          {
+            "id": "b4caa4eb43ce9872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Inbox/TIL 2025-11-14 - HTTP 요청 처리 워크플로우.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIL 2025-11-14 - HTTP 요청 처리 워크플로우"
+            }
+          },
+          {
+            "id": "1a8e329d5ea30772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Inbox/TIL 2025-11-15 - Body 값은 한번만 읽어야 하는 이유.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIL 2025-11-15 - Body 값은 한번만 읽어야 하는 이유"
+            }
+          },
+          {
+            "id": "408400cc2b48a1d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Inbox/TIL 2025-11-15 - ContentCachingRequestWrapper.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIL 2025-11-15 - ContentCachingRequestWrapper"
+            }
+          },
+          {
+            "id": "9cee7022591a20ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Inbox/TIL 2025-11-14 - DispatcherServlet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIL 2025-11-14 - DispatcherServlet"
+            }
+          },
+          {
+            "id": "8b7331f99797fa5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Inbox/TIL 2025-11-15 - PreAuthorize vs RequireRole.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TIL 2025-11-15 - PreAuthorize vs RequireRole"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -173,13 +355,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Inbox/TIL 2025-11-14 - 구명보트.md",
+                "file": "05_Inbox/TIL 2025-11-15 - PreAuthorize vs RequireRole.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TIL 2025-11-14 - 구명보트 의 개요"
+              "title": "TIL 2025-11-15 - PreAuthorize vs RequireRole 의 개요"
             }
           }
         ]
@@ -243,10 +425,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ed3cfee8e7c76e1",
+  "active": "8b7331f99797fa5b",
   "lastOpenFiles": [
-    "05_Inbox/TIL 2025-11-14 - 카펫.md",
+    "05_Inbox/TIL 2025-11-14 - DispatcherServlet.md",
+    "05_Inbox/TIL 2025-11-15 - PreAuthorize vs RequireRole.md",
+    "05_Inbox/TIL 2025-11-15 - WAF.md",
+    "05_Inbox/TIL 2025-11-15 - ContentCachingRequestWrapper.md",
+    "05_Inbox/TIL 2025-11-15 - Body 값은 한번만 읽어야 하는 이유.md",
+    "05_Inbox/TIL 2025-11-14 - HTTP 요청 처리 워크플로우.md",
+    "05_Inbox/TIL 2025-11-14 - Filter와 Interceptor의 예외 처리.md",
+    "Attachments/Pasted image 20251114234742.png",
+    "05_Inbox/TIL 2025-11-14 - Dependency Injection.md",
+    "05_Inbox/TIL 2025-11-14 - Request Scope.md",
+    "05_Inbox/TIL 2025-11-14 - ProxyMode.md",
+    "05_Inbox/TIL 2025-11-14 - IoC 컨테이너.md",
+    "05_Inbox/TIL 2025-11-14 - Annotation - Configuration.md",
+    "05_Inbox/TIL 2025-11-14 - Bean Scope.md",
+    "05_Inbox/TIL 2025-11-13 - Annotation - Target.md",
+    "05_Inbox/TIL 2025-11-12 - 교착 상태.md",
+    "05_Inbox/TIL 2025-11-11 - Git Commit Message.md",
     "05_Inbox/TIL 2025-11-14 - 구명보트.md",
+    "05_Inbox/TIL 2025-11-14 - 카펫.md",
     "05_Inbox/TIL 2025-11-13 - 피보나치 수.md",
     "05_Inbox/TIL 2025-11-13 - Spring 트랜잭션과 Rollback 대상.md",
     "05_Inbox/TIL 2025-11-13 - SOLID 설계 원칙.md",
@@ -255,27 +454,11 @@
     "05_Inbox/TIL 2025-11-13 - Java 접근 제어자.md",
     "05_Inbox/TIL 2025-11-13 - Java 원시 타입.md",
     "05_Inbox/TIL 2025-11-12 - 이진 변환 반복하기.md",
-    "05_Inbox/TIL 2025-11-12 - 숫자의 표현(연속된 자연수 합).md",
-    "05_Inbox/TIL 2025-11-13 - Annotation - Target.md",
-    "MOCs/Inbox Dashboard.md",
-    "05_Inbox/TIL 2025-11-13 - 컬렉션 프레임워크.md",
     "Attachments/JVM Architecture.png",
     "Attachments/Pasted image 20251113173343.png",
     "Attachments/Pasted image 20251113173333.png",
     "Pasted image 20251113173157.png",
-    "05_Inbox/TIL 2025-11-12 - JadenCase 문자열 만들기.md",
-    "05_Inbox/TIL 2025-11-13 - 짝지어 제거하기.md",
-    "05_Inbox/TIL 2025-11-13 - 다음 큰 숫자.md",
-    "05_Inbox/TIL 2025-11-11 - 올바른 괄호.md",
-    "05_Inbox/TIL 2025-11-11 - Git Commit Message.md",
-    "05_Inbox/TIL 2025-11-11 - 최댓값과 최솟값.md",
-    "05_Inbox/TIL 2025-11-12 - 최솟값 만들기.md",
-    "05_Inbox/TIL 2025-11-12 - 트랜잭션 격리 수준.md",
-    "05_Inbox/TIL 2025-11-12 - 기아 상태.md",
-    "05_Inbox/TIL 2025-11-12 - 교착 상태.md",
-    "02_Database/ElasticSearch/Database View.md",
     "02_Database/ElasticSearch",
-    "00_Templates/Move_and_Link.md",
     "04_DevOps/Git",
     "02_Database/Core",
     "MOCs/Database",
