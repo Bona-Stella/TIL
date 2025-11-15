@@ -4,235 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "7f5b3113c30d10da",
+        "id": "3b1987eef2591b61",
         "type": "tabs",
         "children": [
           {
-            "id": "3cf6f5914312e4ad",
+            "id": "db8b7a644200a014",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Inbox/TIL 2025-11-13 - Spring 트랜잭션과 Rollback 대상.md",
+                "file": "05_Inbox/TIL 2025-11-15 - 점프와 순간 이동.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL 2025-11-13 - Spring 트랜잭션과 Rollback 대상"
+              "title": "TIL 2025-11-15 - 점프와 순간 이동"
             }
           },
           {
-            "id": "9f63adc219159f59",
+            "id": "99a57ab214e2254f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05_Inbox/TIL 2025-11-14 - 카펫.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-14 - 카펫"
-            }
-          },
-          {
-            "id": "5ed3cfee8e7c76e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-11 - Git Commit Message.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-11 - Git Commit Message"
-            }
-          },
-          {
-            "id": "1bd0668535f6c526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-14 - Annotation - Configuration.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-14 - Annotation - Configuration"
-            }
-          },
-          {
-            "id": "884417c7e2f4b547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-14 - Bean Scope.md",
+                "file": "05_Inbox/TIL 2025-11-11 - 올바른 괄호.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIL 2025-11-14 - Bean Scope"
-            }
-          },
-          {
-            "id": "0fd430962a27bf84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-14 - ProxyMode.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-14 - ProxyMode"
-            }
-          },
-          {
-            "id": "350c84471665db3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-14 - Request Scope.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-14 - Request Scope"
-            }
-          },
-          {
-            "id": "0847db36753856f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-14 - Request Scope.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-14 - Request Scope"
-            }
-          },
-          {
-            "id": "43607e81f04bcdb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-14 - Dependency Injection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-14 - Dependency Injection"
-            }
-          },
-          {
-            "id": "a6d459e69a85ae48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-14 - DispatcherServlet.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-14 - DispatcherServlet"
-            }
-          },
-          {
-            "id": "1778558779308204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-14 - Filter와 Interceptor의 예외 처리.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-14 - Filter와 Interceptor의 예외 처리"
-            }
-          },
-          {
-            "id": "b4caa4eb43ce9872",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-14 - HTTP 요청 처리 워크플로우.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-14 - HTTP 요청 처리 워크플로우"
-            }
-          },
-          {
-            "id": "1a8e329d5ea30772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-15 - Body 값은 한번만 읽어야 하는 이유.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-15 - Body 값은 한번만 읽어야 하는 이유"
-            }
-          },
-          {
-            "id": "408400cc2b48a1d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-15 - ContentCachingRequestWrapper.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-15 - ContentCachingRequestWrapper"
-            }
-          },
-          {
-            "id": "9cee7022591a20ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-14 - DispatcherServlet.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-14 - DispatcherServlet"
-            }
-          },
-          {
-            "id": "8b7331f99797fa5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_Inbox/TIL 2025-11-15 - PreAuthorize vs RequireRole.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TIL 2025-11-15 - PreAuthorize vs RequireRole"
+              "title": "TIL 2025-11-11 - 올바른 괄호"
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -355,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Inbox/TIL 2025-11-15 - PreAuthorize vs RequireRole.md",
+                "file": "05_Inbox/TIL 2025-11-15 - 점프와 순간 이동.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TIL 2025-11-15 - PreAuthorize vs RequireRole 의 개요"
+              "title": "TIL 2025-11-15 - 점프와 순간 이동 의 개요"
             }
           }
         ]
@@ -425,10 +228,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b7331f99797fa5b",
+  "active": "db8b7a644200a014",
   "lastOpenFiles": [
-    "05_Inbox/TIL 2025-11-14 - DispatcherServlet.md",
+    "05_Inbox/TIL 2025-11-11 - 올바른 괄호.md",
+    "05_Inbox/TIL 2025-11-15 - 점프와 순간 이동.md",
+    "05_Inbox/TIL 2025-11-15 - 귤 고르기.md",
+    "05_Inbox/TIL 2025-11-13 - 피보나치 수.md",
+    "05_Inbox/TIL 2025-11-13 - Annotation - Target.md",
+    "05_Inbox/TIL 2025-11-13 - Java 원시 타입.md",
+    "05_Inbox/TIL 2025-11-14 - 카펫.md",
+    "05_Inbox/TIL 2025-11-12 - 최솟값 만들기.md",
     "05_Inbox/TIL 2025-11-15 - PreAuthorize vs RequireRole.md",
+    "05_Inbox/TIL 2025-11-14 - DispatcherServlet.md",
     "05_Inbox/TIL 2025-11-15 - WAF.md",
     "05_Inbox/TIL 2025-11-15 - ContentCachingRequestWrapper.md",
     "05_Inbox/TIL 2025-11-15 - Body 값은 한번만 읽어야 하는 이유.md",
@@ -441,19 +252,11 @@
     "05_Inbox/TIL 2025-11-14 - IoC 컨테이너.md",
     "05_Inbox/TIL 2025-11-14 - Annotation - Configuration.md",
     "05_Inbox/TIL 2025-11-14 - Bean Scope.md",
-    "05_Inbox/TIL 2025-11-13 - Annotation - Target.md",
     "05_Inbox/TIL 2025-11-12 - 교착 상태.md",
     "05_Inbox/TIL 2025-11-11 - Git Commit Message.md",
     "05_Inbox/TIL 2025-11-14 - 구명보트.md",
-    "05_Inbox/TIL 2025-11-14 - 카펫.md",
-    "05_Inbox/TIL 2025-11-13 - 피보나치 수.md",
     "05_Inbox/TIL 2025-11-13 - Spring 트랜잭션과 Rollback 대상.md",
     "05_Inbox/TIL 2025-11-13 - SOLID 설계 원칙.md",
-    "05_Inbox/TIL 2025-11-13 - 동일성(Identity)과 동등성(Equality).md",
-    "05_Inbox/TIL 2025-11-13 - JVM 전체 구조.md",
-    "05_Inbox/TIL 2025-11-13 - Java 접근 제어자.md",
-    "05_Inbox/TIL 2025-11-13 - Java 원시 타입.md",
-    "05_Inbox/TIL 2025-11-12 - 이진 변환 반복하기.md",
     "Attachments/JVM Architecture.png",
     "Attachments/Pasted image 20251113173343.png",
     "Attachments/Pasted image 20251113173333.png",
